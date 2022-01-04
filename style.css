@@ -54,6 +54,10 @@ h1{
     border-image-slice: 1;
     
 }
+.experience-area h1{
+    text-align: center;
+
+}
 .experinece-item{
     box-shadow: 10px 10px  40px gray;
     width: 40%;
