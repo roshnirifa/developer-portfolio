@@ -43,13 +43,13 @@ h1{
     background-position:right;
 }
 #stack-web-area{
-   border-image: linear-gradient(tomato orange);
+   border-image: linear-gradient(tomato, orange);
     border-left: 7px solid;
     border-image-slice: 1;
   
 }
 #baby-web-area{
-    border-image: linear-gradient(blue cyan);
+    border-image: linear-gradient(blue, cyan);
     border-left: 7px solid;
     border-image-slice: 1;
     
